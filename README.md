@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammadHassaanArain](https://github.com/MuhammadHassaanArain)
 
-- 📫 How to reach me **rafatnaz21@gmail.com**
+- 📫 How to reach me **hassaanarain008@gmail.com**
 
 - ⚡ Fun fact **Tech lover,Coding enthusiast.Bringing joy through code!**
 
