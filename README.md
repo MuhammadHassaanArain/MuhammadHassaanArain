@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I'm 17**
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
