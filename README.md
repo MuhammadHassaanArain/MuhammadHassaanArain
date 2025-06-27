@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shutuphassaan" target="blank"><img src="https://img.shields.io/twitter/follow/shutuphassaan?logo=twitter&style=for-the-badge" alt="shutuphassaan" /></a> </p>
 
-- 🌱 I’m currently learning **Crew.ai**
+- 🌱 I’m currently learning **OpenAI Agent SDK**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
